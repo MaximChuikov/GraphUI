@@ -1,0 +1,12 @@
+D:\Repositories\Graph\GraphLogic\bin\Debug\net6.0\GraphLogic.deps.json
+D:\Repositories\Graph\GraphLogic\bin\Debug\net6.0\GraphLogic.dll
+D:\Repositories\Graph\GraphLogic\bin\Debug\net6.0\ref\GraphLogic.dll
+D:\Repositories\Graph\GraphLogic\bin\Debug\net6.0\GraphLogic.pdb
+D:\Repositories\Graph\GraphLogic\obj\Debug\net6.0\GraphLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Graph\GraphLogic\obj\Debug\net6.0\GraphLogic.AssemblyInfoInputs.cache
+D:\Repositories\Graph\GraphLogic\obj\Debug\net6.0\GraphLogic.AssemblyInfo.cs
+D:\Repositories\Graph\GraphLogic\obj\Debug\net6.0\GraphLogic.csproj.CoreCompileInputs.cache
+D:\Repositories\Graph\GraphLogic\obj\Debug\net6.0\GraphLogic.dll
+D:\Repositories\Graph\GraphLogic\obj\Debug\net6.0\ref\GraphLogic.dll
+D:\Repositories\Graph\GraphLogic\obj\Debug\net6.0\GraphLogic.pdb
+D:\Repositories\Graph\GraphLogic\obj\Debug\net6.0\GraphLogic.csproj.AssemblyReference.cache

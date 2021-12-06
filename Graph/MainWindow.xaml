@@ -1,0 +1,33 @@
+﻿<Window x:Class="Graph.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Graph"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Menu Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Сохранить" ></MenuItem>
+                <MenuItem Header="Загрузить"/>
+            </MenuItem>
+            <MenuItem Header="Обход в ширину" ></MenuItem>
+            <MenuItem Header="Что-то" ></MenuItem>
+        </Menu>
+
+        <Canvas Grid.Row="1"
+                Background="#FDEAA8"
+                Name="canvas"
+                MouseUp="canvas_MouseUp"
+                Panel.ZIndex="3"
+                MouseMove="canvas_MouseMove"
+                MouseLeave="canvas_MouseLeave">
+        </Canvas>
+    </Grid>
+</Window>

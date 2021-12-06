@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Graph", "Graph\Graph.csproj", "{456AA80C-2BC1-42B4-9EC3-3A4B86571E70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphLogic", "GraphLogic\GraphLogic.csproj", "{CF8B7289-4FD5-4527-BAC3-AE8171B758E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{456AA80C-2BC1-42B4-9EC3-3A4B86571E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456AA80C-2BC1-42B4-9EC3-3A4B86571E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456AA80C-2BC1-42B4-9EC3-3A4B86571E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456AA80C-2BC1-42B4-9EC3-3A4B86571E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8B7289-4FD5-4527-BAC3-AE8171B758E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8B7289-4FD5-4527-BAC3-AE8171B758E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8B7289-4FD5-4527-BAC3-AE8171B758E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8B7289-4FD5-4527-BAC3-AE8171B758E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625E1E36-7763-4982-92EC-35771956A558}
+	EndGlobalSection
+EndGlobal
